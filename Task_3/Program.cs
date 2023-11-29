@@ -3,7 +3,7 @@
 
 static double[] CreateRandomArray(int min, int max, int size)
 {
-    double[] array = new double[size];
+    double[] array = new double[size]; 
         Random ran = new Random();
         for (int i = 0; i < size; i++)
         {
