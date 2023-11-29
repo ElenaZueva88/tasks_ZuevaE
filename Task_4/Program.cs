@@ -7,7 +7,7 @@ static int[] NumbersArray(int number)
     int count = 0;
     int first = number;
 
-        while (first != 0)
+        while (first != 0) 
         {
                 first = first / 10;
                 count++;
