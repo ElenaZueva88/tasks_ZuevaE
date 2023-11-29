@@ -2,7 +2,7 @@
 // Напишите программу, которая определяет количество чётных чисел в массиве.
 
 
-int[] array = new int[10];
+int[] array = new int[10]; 
     Random nums = new Random();
 
     for (int i = 0; i < array.Length; i++)    //
