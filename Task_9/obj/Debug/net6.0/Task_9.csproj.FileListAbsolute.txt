@@ -1,0 +1,15 @@
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Task_9\bin\Debug\net6.0\Task_9.exe
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Task_9\bin\Debug\net6.0\Task_9.deps.json
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Task_9\bin\Debug\net6.0\Task_9.runtimeconfig.json
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Task_9\bin\Debug\net6.0\Task_9.dll
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Task_9\bin\Debug\net6.0\Task_9.pdb
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Task_9\obj\Debug\net6.0\Task_9.csproj.AssemblyReference.cache
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Task_9\obj\Debug\net6.0\Task_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Task_9\obj\Debug\net6.0\Task_9.AssemblyInfoInputs.cache
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Task_9\obj\Debug\net6.0\Task_9.AssemblyInfo.cs
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Task_9\obj\Debug\net6.0\Task_9.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Task_9\obj\Debug\net6.0\Task_9.dll
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Task_9\obj\Debug\net6.0\refint\Task_9.dll
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Task_9\obj\Debug\net6.0\Task_9.pdb
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Task_9\obj\Debug\net6.0\Task_9.genruntimeconfig.cache
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Task_9\obj\Debug\net6.0\ref\Task_9.dll
