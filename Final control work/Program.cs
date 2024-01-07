@@ -8,7 +8,7 @@ internal class Program {
 
 static string[] NewArrayString(string[] pull)   
 {
-    string[] chars = new string[pull.Length];   
+    string[] chars = new string[pull.Length];     
         for (int i = 0; i < pull.Length; i++)  
         {
             chars[i] = pull[i];                
