@@ -1,0 +1,15 @@
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Final control work\bin\Debug\net6.0\Final control work.exe
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Final control work\bin\Debug\net6.0\Final control work.deps.json
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Final control work\bin\Debug\net6.0\Final control work.runtimeconfig.json
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Final control work\bin\Debug\net6.0\Final control work.dll
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Final control work\bin\Debug\net6.0\Final control work.pdb
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Final control work\obj\Debug\net6.0\Final control work.csproj.AssemblyReference.cache
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Final control work\obj\Debug\net6.0\Final control work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Final control work\obj\Debug\net6.0\Final control work.AssemblyInfoInputs.cache
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Final control work\obj\Debug\net6.0\Final control work.AssemblyInfo.cs
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Final control work\obj\Debug\net6.0\Final control work.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Final control work\obj\Debug\net6.0\Final control work.dll
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Final control work\obj\Debug\net6.0\refint\Final control work.dll
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Final control work\obj\Debug\net6.0\Final control work.pdb
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Final control work\obj\Debug\net6.0\Final control work.genruntimeconfig.cache
+C:\Users\Elena Zueva\Desktop\tasks_ZuevaE\Final control work\obj\Debug\net6.0\ref\Final control work.dll
