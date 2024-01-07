@@ -45,7 +45,7 @@ Console.WriteLine("Введите строку, разделенную запя�
     string s = Console.ReadLine();          
         string[] pull = s.Split(',');        
                                             
-string[] myArray = NewArrayString(pull);        
+string[] myArray = NewArrayString(pull);         
         ShowArray(myArray);
 
         Console.WriteLine();
