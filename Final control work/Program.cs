@@ -15,7 +15,7 @@ static string[] NewArrayString(string[] pull)
         }
     return chars;                              
 }
-static void ShowArray(string[] array)  
+static void ShowArray(string[] array)    
 {
     Console.Write("The created array" + " ");
         foreach (string elem in array)
