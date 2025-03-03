@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elena Zueva\\Desktop\\Семинар 23.11.2023\\Семинар 23.11.2023.csproj": {}
+    "C:\\Users\\Elena Zueva\\OneDrive\\Рабочий стол\\Курс С#\\tasks_ZuevaE\\Task_1\\Семинар 23.11.2023.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elena Zueva\\Desktop\\Семинар 23.11.2023\\Семинар 23.11.2023.csproj": {
+    "C:\\Users\\Elena Zueva\\OneDrive\\Рабочий стол\\Курс С#\\tasks_ZuevaE\\Task_1\\Семинар 23.11.2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elena Zueva\\Desktop\\Семинар 23.11.2023\\Семинар 23.11.2023.csproj",
+        "projectUniqueName": "C:\\Users\\Elena Zueva\\OneDrive\\Рабочий стол\\Курс С#\\tasks_ZuevaE\\Task_1\\Семинар 23.11.2023.csproj",
         "projectName": "Семинар 23.11.2023",
-        "projectPath": "C:\\Users\\Elena Zueva\\Desktop\\Семинар 23.11.2023\\Семинар 23.11.2023.csproj",
+        "projectPath": "C:\\Users\\Elena Zueva\\OneDrive\\Рабочий стол\\Курс С#\\tasks_ZuevaE\\Task_1\\Семинар 23.11.2023.csproj",
         "packagesPath": "C:\\Users\\Elena Zueva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elena Zueva\\Desktop\\Семинар 23.11.2023\\obj\\",
+        "outputPath": "C:\\Users\\Elena Zueva\\OneDrive\\Рабочий стол\\Курс С#\\tasks_ZuevaE\\Task_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Elena Zueva\\AppData\\Roaming\\NuGet\\NuGet.Config"

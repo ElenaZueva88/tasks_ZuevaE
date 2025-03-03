@@ -1,0 +1,13 @@
+folder_in: /home/vp/tst
+folder_out: /home/vp/out
+folder_ext: /home/vp/folder1
+folder_ext2: /home/vp/folder2
+count: 5
+len_name: 5
+bs: 1M
+type: zip
+alg_hash: scrcCRC32
+ip: 0.0.0.0
+user: user2
+passwd: "11"
+pkgname: p7zip-full
