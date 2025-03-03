@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 2
+wait: 3
+username: RobHood
+password: b2c4efd2ac
+post_title: "Test Post Title2"
+post_description: "Test Post description2"
+post_content: "Test Post content2"
