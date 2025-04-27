@@ -10,4 +10,4 @@
 3. На найденные дефекты завести баг-репорты. Используйте шаблон: https://docs.google.com/document/d/12oz6olIfHFEtsZa9zLHg7g7UGYt4oZuejCE4mMI547o/edit
 
 [Выполненая работа](./TZ.md)  
-[Отчет о тестировании функционала](./)
+[Отчет о тестировании функционала](./Report_test_web_app.docx)
